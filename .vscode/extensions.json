@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "arrterian.nix-env-selector",
+    "bbenoist.nix",
+    "brettm12345.nixfmt-vscode",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "kalitaalexey.vscode-rust",
+    "serayuzgur.crates"
+  ]
+}

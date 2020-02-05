@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.rulers": [100],
+  "nixEnvSelector.nixShellConfig": "${workspaceRoot}/default.nix",
+  "rust.mode": "rls",
+  "rust.rls.args": ["run", "nightly", "rls"],
+  "rust.rls.executable": "~/.cargo/bin/rls",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[nix]": {
+    "editor.defaultFormatter": "brettm12345.nixfmt-vscode"
+  }
+}
